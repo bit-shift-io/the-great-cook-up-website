@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { StyleSheet, Text, View, ScrollView, TextInput } from 'react-native'
 import { getFileList } from '../services/github'
+import { basePath } from '../next.config'
 
 export default function App(props) {
   const [filter, setFilter] = useState('')
@@ -13,6 +14,9 @@ export default function App(props) {
     const title = path.replaceAll('-', ' ')
     return title.includes(filter)
   }) || []
+
+  console.log('filter: ', filter)
+
   return (
     <ScrollView>
       <View style={styles.container}>
@@ -30,7 +34,7 @@ export default function App(props) {
           const path = file.path.replace('.md', '')
           const title = path.replaceAll('-', ' ')
           return (
-            <Text key={path} style={styles.link} accessibilityRole="link" href={`/${path}`}>{title}</Text>
+            <Text key={path} style={styles.link} accessibilityRole="link" href={`/${basePath}/${path}`}>{title}</Text>
           )
         })}
       </View>

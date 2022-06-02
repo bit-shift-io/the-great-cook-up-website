@@ -4,6 +4,7 @@ import _ from 'lodash'
 //import { useFileSystemCache } from '../utils/filesystem-cache'
 import { marked } from 'marked'
 import { getFileList } from '../services/github'
+import { basePath } from '../next.config'
 
 export default function Recipe(props) {
   return (
@@ -15,7 +16,7 @@ export default function Recipe(props) {
         </Text>
     */}
 
-        <Text style={styles.link} accessibilityRole="link" href={`/`}>
+        <Text style={styles.link} accessibilityRole="link" href={`/${basePath}`}>
           Go Back
         </Text>
 
