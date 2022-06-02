@@ -14,4 +14,5 @@ module.exports = {
     ]
     return config
   },
+  basePath: '/the-great-cook-up-website'
 }
