@@ -2,6 +2,13 @@
 
 👉 **[View the deployed app](https://bit-shift-io.github.io/the-great-cook-up-website/)**
 
+
+I have 2 repos setup on github: 
+1. static data files (https://github.com/bit-shift-io/the-great-cook-up)
+2. a next.js project (https://github.com/bit-shift-io/the-great-cook-up-website)
+
+When a push occurs to my static files repo, it triggers the next.js project action to occur which generates a static website from the static data files repo, and then it deploys the static website to github pages (https://bit-shift-io.github.io/the-great-cook-up-website/).
+
 ## Development
 
   yarn dev
