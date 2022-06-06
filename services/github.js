@@ -10,7 +10,7 @@ export const getFileList = async () => {
         ttl: 600000
     })()
 
-    const ignoreFiles = ['.gitignore', 'README.md', 'img']
+    const ignoreFiles = ['.gitignore', 'README.md', 'img', '.github']
     const files = data.tree.filter(file => {
         if (ignoreFiles.includes(file.path)) {
             return false
