@@ -1,10 +1,12 @@
 import { useState } from 'react'
 import { StyleSheet, Text, View, ScrollView, TextInput } from 'react-native'
 import { getFileList } from '../services/github'
-import { basePath } from '../next.config'
+import { useRouter } from 'next/router'
+import startCase from 'lodash/startCase'
 
 export default function App(props) {
   const [filter, setFilter] = useState('')
+  const {basePath} = useRouter()
 
   const files = props.files?.filter(file => {
     if (!filter) {
@@ -21,7 +23,7 @@ export default function App(props) {
     <ScrollView>
       <View style={styles.container}>
         <Text accessibilityRole="header" style={styles.text}>
-          The Great Cookup
+          The Great Cook Up
         </Text>
 
         <TextInput
@@ -32,9 +34,9 @@ export default function App(props) {
 
         {files.map(file => {
           const path = file.path.replace('.md', '')
-          const title = path.replaceAll('-', ' ')
+          const title = startCase(path.replaceAll('-', ' '))
           return (
-            <Text key={path} style={styles.link} accessibilityRole="link" href={`/${basePath}/${path}`}>{title}</Text>
+            <Text key={path} style={styles.link} accessibilityRole="link" href={`${basePath}/${path}`}>{title}</Text>
           )
         })}
       </View>
@@ -51,7 +53,9 @@ const styles = StyleSheet.create({
     marginTop: 50
   },
   link: {
-    color: 'blue',
+    //color: 'blue',
+    marginTop: '0.5rem',
+    marginBottom: '0.5rem'
   },
   textContainer: {
     alignItems: 'center',

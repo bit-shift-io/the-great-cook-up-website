@@ -1,12 +1,12 @@
 
 import { StyleSheet, Text, View, ScrollView } from 'react-native'
 import _ from 'lodash'
-//import { useFileSystemCache } from '../utils/filesystem-cache'
 import { marked } from 'marked'
 import { getFileList } from '../services/github'
-import { basePath } from '../next.config'
+import { useRouter } from 'next/router'
 
 export default function Recipe(props) {
+  const {basePath} = useRouter()
   return (
     <ScrollView>
       <View style={styles.container}>
@@ -16,8 +16,8 @@ export default function Recipe(props) {
         </Text>
     */}
 
-        <Text style={styles.link} accessibilityRole="link" href={`/${basePath}`}>
-          Go Back
+        <Text style={styles.link} accessibilityRole="link" href={`${basePath}`}>
+          &#8592; Back
         </Text>
 
   {/*
@@ -39,7 +39,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     flexGrow: 1,
     justifyContent: 'center',
-    width: '80%'
+    //width: '80%'
+    paddingHorizontal: '1rem'
   },
   text: {
     alignItems: 'center',
@@ -48,7 +49,7 @@ const styles = StyleSheet.create({
   },
   link: {
     marginTop: 50,
-    color: 'blue',
+    //color: 'blue',
   },
 })
 

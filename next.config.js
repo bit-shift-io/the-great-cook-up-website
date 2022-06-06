@@ -1,4 +1,5 @@
 module.exports = {
+  basePath: '/the-great-cook-up-website',
   webpack: (config) => {
     config.resolve.alias = {
       ...(config.resolve.alias || {}),
@@ -13,6 +14,5 @@ module.exports = {
       ...config.resolve.extensions,
     ]
     return config
-  },
-  basePath: '/the-great-cook-up-website'
+  }
 }

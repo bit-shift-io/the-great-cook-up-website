@@ -13,6 +13,11 @@
   yarn start
     Runs the built app in production mode.
 
+
+  Note that when the browser launches and says 404, you need to append the basePath so the url will actually be:
+
+    http://localhost:3000/the-great-cook-up-website
+
 ## Helpful resources
 
 Project bootstrapped with this guide: https://github.com/vercel/next.js/tree/canary/examples/with-react-native-web
