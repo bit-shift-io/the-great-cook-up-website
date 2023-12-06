@@ -11,13 +11,13 @@ When a push occurs to my static files repo, it triggers the next.js project acti
 
 ## Development
 
-  yarn dev
+  pnpm dev
     Starts the development server.
 
-  yarn build
+  pnpm build
     Builds the app for production.
 
-  yarn start
+  pnpm start
     Runs the built app in production mode.
 
 

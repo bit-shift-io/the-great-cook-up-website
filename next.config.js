@@ -1,18 +1,6 @@
-module.exports = {
-  basePath: '/the-great-cook-up-website',
-  webpack: (config) => {
-    config.resolve.alias = {
-      ...(config.resolve.alias || {}),
-      // Transform all direct `react-native` imports to `react-native-web`
-      'react-native$': 'react-native-web',
-    }
-    config.resolve.extensions = [
-      '.web.js',
-      '.web.jsx',
-      '.web.ts',
-      '.web.tsx',
-      ...config.resolve.extensions,
-    ]
-    return config
-  }
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+    output: 'export',
 }
+
+module.exports = nextConfig
