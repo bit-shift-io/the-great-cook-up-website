@@ -1,9 +1,9 @@
 import Link from 'next/link'
-import { useGetFileList } from '../../services/github'
+import { getFileList } from '../../services/github'
 import { marked } from 'marked'
 
 export async function generateStaticParams() {
-  const files = await useGetFileList()
+  const files = await getFileList()
   const paths = files.map((file) => ({
     recipe: file.path.replace('.md', '')
   }))

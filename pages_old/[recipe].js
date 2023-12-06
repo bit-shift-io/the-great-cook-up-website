@@ -2,7 +2,7 @@
 import { StyleSheet, Text, View, ScrollView } from 'react-native'
 import _ from 'lodash'
 import { marked } from 'marked'
-import { useGetFileList } from '../services/github'
+import { getFileList } from '../services/github'
 import { useRouter } from 'next/router'
 
 export default function Recipe(props) {
@@ -74,7 +74,7 @@ export async function getStaticPaths() {
     // https://github.com/vercel/next.js/discussions/14533
     // it looks like we need to cache to disk
 
-    const files = await useGetFileList()
+    const files = await getFileList()
 
     // Get the paths we want to pre-render based on posts
     const paths = files.map((file) => ({

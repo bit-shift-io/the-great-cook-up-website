@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { StyleSheet, Text, View, ScrollView, TextInput } from 'react-native'
-import { useGetFileList } from '../services/github'
+import { getFileList } from '../services/github'
 import { useRouter } from 'next/router'
 import startCase from 'lodash/startCase'
 
@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
 
 // called at build time
 export async function getStaticProps() {
-  const files = await useGetFileList()
+  const files = await getFileList()
   return {
     props: {
       files

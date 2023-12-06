@@ -11,7 +11,7 @@ export interface IGithubGitTreesMain {
     tree: Array<ITree>;
 }
 
-export const useGetFileList = async () => {
+export const getFileList = async () => {
     const data : IGithubGitTreesMain = await useFileSystemCache(async () => {
         const r = await fetch('https://api.github.com/repos/bit-shift-io/the-great-cook-up/git/trees/main').then(r => r.json())
         return r
