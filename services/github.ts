@@ -1,8 +1,18 @@
 import fs from 'fs'
 import { useFileSystemCache } from '../utils/filesystem-cache'
 
-export const getFileList = async () => {
-    const data = await useFileSystemCache(async () => {
+export interface ITree {
+    path: string;
+}
+
+export interface IGithubGitTreesMain {
+    sha: string;
+    url: string;
+    tree: Array<ITree>;
+}
+
+export const useGetFileList = async () => {
+    const data : IGithubGitTreesMain = await useFileSystemCache(async () => {
         const r = await fetch('https://api.github.com/repos/bit-shift-io/the-great-cook-up/git/trees/main').then(r => r.json())
         return r
     }, {

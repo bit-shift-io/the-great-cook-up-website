@@ -4,9 +4,10 @@ import Link from 'next/link'
 import startCase from 'lodash/startCase'
 import { ChangeEvent, useState } from 'react'
 import { Input } from '@/components/ui/input'
+import { ITree } from '@/services/github'
 
 interface IHomeClient {
-    files: any
+    files: Array<ITree>;
 }
 
 export function HomeClient(props : IHomeClient) {

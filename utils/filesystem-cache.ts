@@ -2,13 +2,18 @@
 import fs from 'fs'
 import path from 'path'
 
+type CacheConfig = {
+  cacheBaseKey: string
+  ttl: number
+}
+
 const CACHE_DIR = path.join(process.cwd(), './.next-fs-cache')
 const TTL_EXTENSION = '.ttl'
 
 export const useFileSystemCache = (
-  fn,
-  { cacheBaseKey, ttl },
-) => async (...args) => {
+  fn: (...args: any[]) => Promise<any>,
+  { cacheBaseKey, ttl }: CacheConfig,
+) => async (...args: any[]) => {
   const cacheKey = `${cacheBaseKey}${encodeURIComponent(JSON.stringify(args))}`
 
   const contentPath = path.join(CACHE_DIR, cacheKey)
