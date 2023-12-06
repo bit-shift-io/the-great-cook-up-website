@@ -6,7 +6,7 @@ import { ReactNode } from 'react';
 
 // https://marked.js.org/using_pro#renderer
 const renderer : Partial<ReactRenderer> = {
-    heading(children: ReactNode, level: HeadingLevels) {
+    heading(children: ReactNode, level) {
         return (
             <h1 className="text-red-300">
               {children}
