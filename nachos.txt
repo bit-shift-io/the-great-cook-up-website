@@ -1,0 +1,67 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:HL["/_next/static/css/cec9664108f1496a.css","style",{"crossOrigin":""}]
+0:["CHuIWCZkvHtPi70nb4mAo",[[["",{"children":[["recipe","nachos","d"],{"children":["__PAGE__?{\"recipe\":\"nachos\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cec9664108f1496a.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+5:I[6083,[],""]
+6:I[5732,[],""]
+3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e66fe9","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","nachos","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"nachos\"}","styles":null}],"childPropSegment":["recipe","nachos","d"],"styles":null}]}]}],null]
+4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+7:null
+9:I[4998,["998","static/chunks/998-17638c505762b718.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
+a:T75d,<h1>Nachos</h1>
+<p>Serves: 24</p>
+<p>Time: 20min prep + 20min cook</p>
+<h2>Ingredients</h2>
+<ul>
+<li><p>1kg corn tortillas, cut into wedges</p>
+</li>
+<li><p>700g mince</p>
+</li>
+<li><p>4x red onions, finely chopped</p>
+</li>
+<li><p>8tsp garlic</p>
+</li>
+<li><p>4tsp chilli</p>
+</li>
+<li><p>4tsp paprika</p>
+</li>
+<li><p>4tsp cumin</p>
+</li>
+<li><p>4x red capsicum, diced</p>
+</li>
+<li><p>4x zuchini, diced</p>
+</li>
+<li><p>4x 400g cans of black beans, drain &amp; rinse</p>
+</li>
+<li><p>4x 400g cans of diced tomato</p>
+</li>
+<li><p>1 small bowl frozen veg, defrosted</p>
+</li>
+<li><p>300ml water</p>
+</li>
+<li><p>squirt of lime (optional)</p>
+</li>
+<li><p>2tsp corriander (optional)</p>
+</li>
+<li><p>500g natural yoghurt or sour cream (optional but recommended)</p>
+</li>
+</ul>
+<h2>Method</h2>
+<ol>
+<li>Preheat oven to 200 degrees, cut tortillas into wedges and put on baking paper. Lightly coat in oil. Bake ~10mins, turning once or until golden and crisp</li>
+<li>Brown mince in saucepan</li>
+<li>Add onion, garlic, chilli, paprika, capsicum, zuchini, corridander in saucepan on medium heat with some oil till softened</li>
+<li>Add black beans, tomatoes, frozen veg, water, squirt of lime. Bring to boil then simmer for 10min or until thickened</li>
+<li>Serve bean mix with tortilla crisps. Top with optional yoghurt, fresh coriander, lime, paprika</li>
+</ol>
+<h2>Notes</h2>
+<ul>
+<li><p>Sauce can be cooked and frozen then just prepare corn wedges on the day you want to eat</p>
+</li>
+<li><p>Should be amazing with some cheese on top</p>
+</li>
+<li><p>Original recipe: <a href="https://www.taste.com.au/recipes/healthy-vegetarian-nachos-recipe/baf2z4s1?r=healthy&h=Healthy">https://www.taste.com.au/recipes/healthy-vegetarian-nachos-recipe/baf2z4s1?r=healthy&amp;h=Healthy</a></p>
+</li>
+</ul>
+<p><img src="./img/nachos-1.jpg" alt=""></p>
+<p><img src="./img/nachos-2.jpg" alt=""></p>
+8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]

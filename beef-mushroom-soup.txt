@@ -1,0 +1,43 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:HL["/_next/static/css/cec9664108f1496a.css","style",{"crossOrigin":""}]
+0:["CHuIWCZkvHtPi70nb4mAo",[[["",{"children":[["recipe","beef-mushroom-soup","d"],{"children":["__PAGE__?{\"recipe\":\"beef-mushroom-soup\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cec9664108f1496a.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+5:I[6083,[],""]
+6:I[5732,[],""]
+3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e66fe9","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","beef-mushroom-soup","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"beef-mushroom-soup\"}","styles":null}],"childPropSegment":["recipe","beef-mushroom-soup","d"],"styles":null}]}]}],null]
+4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+7:null
+9:I[4998,["998","static/chunks/998-17638c505762b718.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
+a:T59a,<h1>Beef and Mushroom Soup</h1>
+<p>Serves 10?</p>
+<p>Time: 30min prep + 2hr cook </p>
+<h2>Ingredients</h2>
+<ul>
+<li>2Tbl sesame oil</li>
+<li>1kg diced beef</li>
+<li>2x leek</li>
+<li>4tsp chilli</li>
+<li>4tsp garlic paste</li>
+<li>2Tbl ginger</li>
+<li>1 can shiitake murshrooms (~200g)</li>
+<li>8 cups chicken stock (would like to try beef stock next time?)</li>
+<li>4 cups water</li>
+<li>2Tbl soy sauce (we put extra on when we serve so might want more here?)</li>
+<li>2x carrot</li>
+<li>~200g bean sprouts</li>
+<li>300g mashroom pieces</li>
+<li>bunch (~8) spring onions</li>
+</ul>
+<h2>Method</h2>
+<ol>
+<li>Thinly slice leek (pale section only). Dice shiitake mushrooms. Cut carrot into mathsticks (maybe grate next time?). Splice up spring onions</li>
+<li>Brown beef in seasame oil, then remove</li>
+<li>Heat remaning seasme oil, add leek, chilli, garlic, ginger and cook for around 2 min or till soft. </li>
+<li>Add beef and shiitake mushrooms, cook for ~1min</li>
+<li>Add stock + water, bring to boil then reduce to low simmer</li>
+<li>Cook for 2hrs or till beef tender</li>
+<li>Shred beef using 2 forks on a breadboard</li>
+<li>Add beef, soy sauce, carrots, bean sprouts, spring onion, mushroom pieces. Cook for ~5min</li>
+</ol>
+<h2>Notes</h2>
+<p>Original recipe: <a href="https://www.taste.com.au/recipes/korean-style-beef-mushroom-soup/62jgss9j">https://www.taste.com.au/recipes/korean-style-beef-mushroom-soup/62jgss9j</a></p>
+8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]

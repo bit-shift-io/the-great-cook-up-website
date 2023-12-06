@@ -1,0 +1,52 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:HL["/_next/static/css/cec9664108f1496a.css","style",{"crossOrigin":""}]
+0:["CHuIWCZkvHtPi70nb4mAo",[[["",{"children":[["recipe","quinoa-baked-salad","d"],{"children":["__PAGE__?{\"recipe\":\"quinoa-baked-salad\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cec9664108f1496a.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+5:I[6083,[],""]
+6:I[5732,[],""]
+3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e66fe9","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","quinoa-baked-salad","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"quinoa-baked-salad\"}","styles":null}],"childPropSegment":["recipe","quinoa-baked-salad","d"],"styles":null}]}]}],null]
+4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+7:null
+9:I[4998,["998","static/chunks/998-17638c505762b718.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
+a:T6ae,<h1>Quinoa Baked Salad</h1>
+<p>Serves 6
+Prep 20 min
+Cook 35 min</p>
+<h2>Ingredients</h2>
+<ul>
+<li>1 carrot, peeled, cut into matchsticks </li>
+<li>½ red onion, thinly sliced</li>
+<li>1 cup (190g) tricolour quinoa </li>
+<li>16 head cauliflower, cut into florets </li>
+<li>1 medium gold sweet potato, peeled, chopped</li>
+<li>1 red capsicum, seeded, thinly sliced</li>
+<li>1 tbs sunflower oil</li>
+<li>2 tsp curry powder</li>
+<li>½ cup (70g) slivered almonds</li>
+<li>400g can chickpeas, rinsed, drained</li>
+<li>½ cup (80g) currants </li>
+<li>2 celery sticks, thinly sliced </li>
+<li>½ cup flat-leaf parsley leaves </li>
+<li>60g pkt Coles Australian Baby Spinach</li>
+</ul>
+<h2>Dressing</h2>
+<ul>
+<li>¼ cup (60ml) lemon juice </li>
+<li>1 tbs wholegrain mustard </li>
+<li>2 tbs maple syrup</li>
+<li>1/4 cup (60ml) sunflower oil</li>
+<li>Honey &amp; Mustard dressing (optional from the shop)</li>
+</ul>
+<h2>Method</h2>
+<ol>
+<li>Cook the quinoa in a saucepan of boiling water (~1 cup quinoa, 2 cup water) till no water left.</li>
+<li>Preheat oven to 200°C. Line a baking tray with baking paper. </li>
+<li>Toss the cauliflower, sweet potato, capsicum, oil and curry powder in a bowl to coat. Bake for 25-30 mins or until tender (preboil is an idea too). </li>
+<li>Add almonds and roast for a further 5 mins or until toasted.</li>
+<li>To make lemon-mustard dressing, place the oil, lemon juice, mustard and maple syrup in a screw-top jar and shake.</li>
+<li>Combine quinoa, cauliflower mixture, chickpeas, currants, celery, parsley, spinach, onion and carrot in a serving bowl. Drizzle with dressing to serve.</li>
+</ol>
+<h2>Notes</h2>
+<ul>
+<li>Honey &amp; Mustard dressing (optional from the shop)</li>
+</ul>
+8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]

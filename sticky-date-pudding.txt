@@ -1,0 +1,41 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:HL["/_next/static/css/cec9664108f1496a.css","style",{"crossOrigin":""}]
+0:["CHuIWCZkvHtPi70nb4mAo",[[["",{"children":[["recipe","sticky-date-pudding","d"],{"children":["__PAGE__?{\"recipe\":\"sticky-date-pudding\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cec9664108f1496a.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+5:I[6083,[],""]
+6:I[5732,[],""]
+3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e66fe9","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","sticky-date-pudding","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"sticky-date-pudding\"}","styles":null}],"childPropSegment":["recipe","sticky-date-pudding","d"],"styles":null}]}]}],null]
+4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+7:null
+9:I[4998,["998","static/chunks/998-17638c505762b718.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
+a:T587,<h1>Sticky Date Pudding</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>180g dried dates, pitted, roughly chopped</li>
+<li>1 tsp bicarbonate of soda</li>
+<li>50g Weight Watchers Canola Spread (or Gold’n Canola spread)</li>
+<li>½ cup (110g)  brown sugar </li>
+<li>2 medium eggs</li>
+<li>1 ½ cups (225g) white self-raising flour</li>
+<li>Maple Syrup </li>
+<li>2 cups vanilla custard</li>
+</ul>
+<h2>Method</h2>
+<ol>
+<li><p>Preheat oven to 180°C. Spray a 23cm x 23cm square slice tin lightly with oil spray.  (line base with baking paper)</p>
+</li>
+<li><p>Place the dates and bicarbonate of soda into a heatproof bowl and pour over 1 cup (250ml) boiling water.  Leave to stand for 10 minutes.</p>
+</li>
+<li><p>Using electric beaters, beat the spread, brown sugar and eggs until smooth.  </p>
+</li>
+<li><p>Stir in flour and the date mixture.  </p>
+</li>
+<li><p>Pour into prepared tin.  Bake for 20-25 minutes, until a skewer inserted into the centre of the pudding comes out clean. </p>
+</li>
+<li><p>Cut into portions and serve warm, drizzled with a little maple syrup (½ - 1 Tablespoon per serve) and custard.</p>
+</li>
+</ol>
+<h2>Notes</h2>
+<p>TIP: The pudding (without maple syrup or custard) is suitable to freeze.  Cut cooled pudding into individual portions and wrap each portion in plastic wrap and foil.  Label, date and freeze for up to 3 months.</p>
+<p>From Raelene</p>
+<p>Ideal with &quot;Microwave Custard&quot;</p>
+8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]

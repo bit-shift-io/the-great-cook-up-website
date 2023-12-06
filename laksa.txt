@@ -1,0 +1,43 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:HL["/_next/static/css/cec9664108f1496a.css","style",{"crossOrigin":""}]
+0:["CHuIWCZkvHtPi70nb4mAo",[[["",{"children":[["recipe","laksa","d"],{"children":["__PAGE__?{\"recipe\":\"laksa\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cec9664108f1496a.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+5:I[6083,[],""]
+6:I[5732,[],""]
+3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e66fe9","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","laksa","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"laksa\"}","styles":null}],"childPropSegment":["recipe","laksa","d"],"styles":null}]}]}],null]
+4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+7:null
+9:I[4998,["998","static/chunks/998-17638c505762b718.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
+a:T53e,<h1>Curry Laksa</h1>
+<p>Serves: 4</p>
+<h2>Ingredients</h2>
+<ul>
+<li>300 g chicken thigh sliced</li>
+<li>2 Tbs thair red curry</li>
+<li>2 Tbs curry powder</li>
+<li>400 ml can coconut milk</li>
+<li>4 cups chicken stock</li>
+<li>2 Tbs fish sauce</li>
+<li>1 tsp sugar (brown)</li>
+<li>800 g noodles</li>
+<li>bean shoots</li>
+</ul>
+<h2>Extra</h2>
+<ul>
+<li>400 g peeled prawns</li>
+<li>boiled or fried eggs</li>
+<li>200 g fish balls</li>
+<li>tofu puffs</li>
+</ul>
+<h2>Method</h2>
+<ol>
+<li><p>Heat the oil in a wok or saucepan over medium-high heat. Add the curry paste and cook, stirring, for half a minute or until fragrant. Stir through the curry powder. Then add the chicken and stir-fry for a minute or so. Add the coconut milk and chicken stock. Simmer for 5 minutes.</p>
+</li>
+<li><p>Now add the prawns and fish balls (if using), along with the tofu puffs. Simmer for a another few minutes or until the prawns are cooked.</p>
+</li>
+<li><p>Stir through the fish sauce and sugar and season to taste with extra if needed. Ladle your laksa over the noodles and top with bean shoots, egg and coriander leaves.</p>
+</li>
+</ol>
+<h2>Notes</h2>
+<p>TODO: try add brown sugar to the curry paste at the start so that it cramelises</p>
+<p><a href="https://www.marionskitchen.com/easy-curry-laksa/">https://www.marionskitchen.com/easy-curry-laksa/</a></p>
+8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
