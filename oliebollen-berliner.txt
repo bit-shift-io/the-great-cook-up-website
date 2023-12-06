@@ -1,45 +1,10 @@
 1:HL["/the-great-cook-up-website/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","style",{"crossOrigin":""}]
-0:["pmtmISA0gxiZmWfDfJhYg",[[["",{"children":[["recipe","oliebollen-berliner","d"],{"children":["__PAGE__?{\"recipe\":\"oliebollen-berliner\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","style",{"crossOrigin":""}]
+0:["w3l_FnVqzMTT2ZmCRzzNp",[[["",{"children":[["recipe","oliebollen-berliner","d"],{"children":["__PAGE__?{\"recipe\":\"oliebollen-berliner\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6083,[],""]
 6:I[5732,[],""]
 3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1d6b10","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","oliebollen-berliner","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"oliebollen-berliner\"}","styles":null}],"childPropSegment":["recipe","oliebollen-berliner","d"],"styles":null}]}]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/the-great-cook-up-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
-9:I[4998,["998","static/chunks/998-dba07d2c414391fa.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
-a:T50c,<h1>Oliebollen/Berliner - Dutch Oil Balls</h1>
-<p>Serves 10</p>
-<h2>Ingredients</h2>
-<ul>
-<li>4 cups flour</li>
-<li>2 cup milk/buttermilk</li>
-<li>4Tb butter (if using milk)</li>
-<li>3tsp yeast</li>
-<li>2Tb sugar</li>
-<li>1tsp salt</li>
-<li>2 eggs</li>
-</ul>
-<h2>Extras</h2>
-<ul>
-<li>1/2 cup raisins (soaked in water for 15m)</li>
-<li>1-2 apples</li>
-<li>2tsp cinnamon/mixed spice</li>
-<li>powder with icing sugar</li>
-<li>inject warm jam</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li>Warm milk and mix with sugar, yeast beaten egg and salt</li>
-<li>Add flour and mix</li>
-<li>Add extras</li>
-<li>Proof for 1hr if making oliebollen</li>
-<li>If making berliner kneed, reduce milk slightly, and cut into balls, rise 2hr</li>
-<li>Use 2 oil diped spoons to shape into balls and deep fry 180C for about 3min in saucepan ~1L oil</li>
-</ol>
-<h2>Notes</h2>
-<p><a href="https://www.youtube.com/watch?v=t4RNm_BY-5E">https://www.youtube.com/watch?v=t4RNm_BY-5E</a></p>
-<p><a href="https://www.youtube.com/watch?v=kvWDaLH2qW8">https://www.youtube.com/watch?v=kvWDaLH2qW8</a></p>
-<p><a href="https://www.youtube.com/watch?app=desktop&v=Q2aveTL9Ix4">https://www.youtube.com/watch?app=desktop&amp;v=Q2aveTL9Ix4</a></p>
-<p><img src="./img/oliebollen-1.jpg" alt=""></p>
-<p><img src="./img/oliebollen-2.jpg" alt=""></p>
-8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:I[997,["543","static/chunks/543-7dd51dc56d52a10b.js","303","static/chunks/303-8ddb7eccb07f59c1.js","254","static/chunks/app/%5Brecipe%5D/page-6855c5a1ab9da794.js"],"RecipeClient"]
+8:["$","$L9",null,{"markdown":"# Oliebollen/Berliner - Dutch Oil Balls\n\nServes 10\n\n## Ingredients\n\n* 4 cups flour\n* 2 cup milk/buttermilk\n* 4Tb butter (if using milk)\n* 3tsp yeast\n* 2Tb sugar\n* 1tsp salt\n* 2 eggs\n\n\n## Extras\n\n* 1/2 cup raisins (soaked in water for 15m)\n* 1-2 apples\n* 2tsp cinnamon/mixed spice\n* powder with icing sugar\n* inject warm jam\n\n## Method\n\n1. Warm milk and mix with sugar, yeast beaten egg and salt\n2. Add flour and mix\n3. Add extras\n4. Proof for 1hr if making oliebollen\n5. If making berliner kneed, reduce milk slightly, and cut into balls, rise 2hr\n6. Use 2 oil diped spoons to shape into balls and deep fry 180C for about 3min in saucepan ~1L oil\n\n## Notes\n\nhttps://www.youtube.com/watch?v=t4RNm_BY-5E\n\nhttps://www.youtube.com/watch?v=kvWDaLH2qW8\n\nhttps://www.youtube.com/watch?app=desktop&v=Q2aveTL9Ix4\n\n![](./img/oliebollen-1.jpg)\n\n![](./img/oliebollen-2.jpg)"}]

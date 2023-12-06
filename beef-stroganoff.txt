@@ -1,46 +1,10 @@
 1:HL["/the-great-cook-up-website/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","style",{"crossOrigin":""}]
-0:["pmtmISA0gxiZmWfDfJhYg",[[["",{"children":[["recipe","beef-stroganoff","d"],{"children":["__PAGE__?{\"recipe\":\"beef-stroganoff\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","style",{"crossOrigin":""}]
+0:["w3l_FnVqzMTT2ZmCRzzNp",[[["",{"children":[["recipe","beef-stroganoff","d"],{"children":["__PAGE__?{\"recipe\":\"beef-stroganoff\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6083,[],""]
 6:I[5732,[],""]
 3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1d6b10","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","beef-stroganoff","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"beef-stroganoff\"}","styles":null}],"childPropSegment":["recipe","beef-stroganoff","d"],"styles":null}]}]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/the-great-cook-up-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
-9:I[4998,["998","static/chunks/998-dba07d2c414391fa.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
-a:T43d,<h1>Beef Stroganoff</h1>
-<p>serves 4</p>
-<h2>Ingredients</h2>
-<ul>
-<li>500g good cut of beef - eg. rib eye, boneless sirloin, sirloin steak tips, beef tenderloin </li>
-<li>1tsp salt</li>
-<li>1/4 tsp allspice (less is best)</li>
-<li>2Tb olive oil</li>
-<li>50g butter/margarine</li>
-<li>1 small brown onion thinly sliced</li>
-<li>300g white mushrooms thinly sliced</li>
-<li>1/2 cup white wine (or chinese cooking wine)</li>
-<li>1Tb flour</li>
-<li>1/2 cup beef stock</li>
-<li>1 cup sour cream, yogurt or milk (300ml)</li>
-</ul>
-<h2>Optional Extras</h2>
-<ul>
-<li>1Tb american mustard</li>
-<li>Frozen veg?</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li>salt + allspice as marinade for 1hr</li>
-<li>saute beef w oil on high heat</li>
-<li>remove beef</li>
-<li>butter + onion + mush till soft and golden</li>
-<li>deglaze pan with wine, reduce by 50%</li>
-<li>stir in flour and cook 1-2m</li>
-<li>add stock</li>
-<li>medium low heat then add mustard</li>
-<li>stir in cream, yogurt or milk</li>
-<li>add beef</li>
-<li>simmer for 15-20m</li>
-<li>serve on french fries, mash, rice, pasta or noodles</li>
-</ol>
-8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:I[997,["543","static/chunks/543-7dd51dc56d52a10b.js","303","static/chunks/303-8ddb7eccb07f59c1.js","254","static/chunks/app/%5Brecipe%5D/page-6855c5a1ab9da794.js"],"RecipeClient"]
+8:["$","$L9",null,{"markdown":"# Beef Stroganoff\n\nserves 4\n\n## Ingredients\n\n* 500g good cut of beef - eg. rib eye, boneless sirloin, sirloin steak tips, beef tenderloin \n* 1tsp salt\n* 1/4 tsp allspice (less is best)\n* 2Tb olive oil\n* 50g butter/margarine\n* 1 small brown onion thinly sliced\n* 300g white mushrooms thinly sliced\n* 1/2 cup white wine (or chinese cooking wine)\n* 1Tb flour\n* 1/2 cup beef stock\n* 1 cup sour cream, yogurt or milk (300ml)\n\n## Optional Extras\n\n* 1Tb american mustard\n* Frozen veg?\n\n## Method\n\n1. salt + allspice as marinade for 1hr\n2. saute beef w oil on high heat\n3. remove beef\n4. butter + onion + mush till soft and golden\n5. deglaze pan with wine, reduce by 50%\n6. stir in flour and cook 1-2m\n7. add stock\n8. medium low heat then add mustard\n9. stir in cream, yogurt or milk\n10. add beef\n11. simmer for 15-20m\n12. serve on french fries, mash, rice, pasta or noodles\n"}]

@@ -1,49 +1,52 @@
 1:HL["/the-great-cook-up-website/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","style",{"crossOrigin":""}]
-0:["pmtmISA0gxiZmWfDfJhYg",[[["",{"children":[["recipe","portuguese-chicken-bake","d"],{"children":["__PAGE__?{\"recipe\":\"portuguese-chicken-bake\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","style",{"crossOrigin":""}]
+0:["w3l_FnVqzMTT2ZmCRzzNp",[[["",{"children":[["recipe","portuguese-chicken-bake","d"],{"children":["__PAGE__?{\"recipe\":\"portuguese-chicken-bake\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6083,[],""]
 6:I[5732,[],""]
 3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1d6b10","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","portuguese-chicken-bake","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"portuguese-chicken-bake\"}","styles":null}],"childPropSegment":["recipe","portuguese-chicken-bake","d"],"styles":null}]}]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/the-great-cook-up-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
-9:I[4998,["998","static/chunks/998-dba07d2c414391fa.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
-a:T605,<h1>Portuguese Chicken Bake</h1>
-<p>Serves: 14
-Time to make: 30min prep/pre-cook + 1hr bake</p>
-<h2>Ingredients</h2>
-<ul>
-<li>2cup rice (we used borwn rice)</li>
-<li>3tbs portuguese spice</li>
-<li>1tsp parsley</li>
-<li>4tsp brown sugar</li>
-<li>2 lemons juiced + rind</li>
-<li>1.5kg chicken legs (next time we want to use 2kg)</li>
-<li>2 brown onion, diced</li>
-<li>4tsp garlic</li>
-<li>2 red capsicums, diced</li>
-<li>500g frozen corn kernels</li>
-<li>2x400g can diced tomato</li>
-<li>2cup chicken stock</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li><p>Cut onion, capy, rind n squeeze lemon</p>
-</li>
-<li><p>Preheat oven to 200deg. Grease baking dishes. Combine portuguese spice, parley, sugar, lemon and rind in a large bowl. Add chicken and coat well in mixture.</p>
-</li>
-<li><p>In a large woke/frying pan, medium heat oil. Cook chicken in batches till golden borwn (~5min)</p>
-</li>
-<li><p>Add oil, onion, garlic and remaining spice mix to frying pan for ~6min till soft</p>
-</li>
-<li><p>Add capy, corn, rice, tomatoes and stock. Bring to boil. Pour into baking dish</p>
-</li>
-<li><p>Add chicken on top and press into rice mix a little. Cover with foil. Bake for 25min</p>
-</li>
-<li><p>Remove foil, bake for 30min</p>
-</li>
-</ol>
-<h2>Notes</h2>
-<p>I think a dolop of yoghourt/sour cream would go well with this</p>
-<p>Original recipie: <a href="https://www.sunrice.com.au/rice-recipes/portuguese-chicken-bake/">https://www.sunrice.com.au/rice-recipes/portuguese-chicken-bake/</a></p>
-<p><img src="./img/portuguese-chicken-bake-1.jpg" alt=""></p>
-8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:I[997,["543","static/chunks/543-7dd51dc56d52a10b.js","303","static/chunks/303-8ddb7eccb07f59c1.js","254","static/chunks/app/%5Brecipe%5D/page-6855c5a1ab9da794.js"],"RecipeClient"]
+a:T4b5,# Portuguese Chicken Bake
+
+Serves: 14
+Time to make: 30min prep/pre-cook + 1hr bake
+
+## Ingredients
+
+* 2cup rice (we used borwn rice)
+* 3tbs portuguese spice
+* 1tsp parsley
+* 4tsp brown sugar
+* 2 lemons juiced + rind
+* 1.5kg chicken legs (next time we want to use 2kg)
+* 2 brown onion, diced
+* 4tsp garlic
+* 2 red capsicums, diced
+* 500g frozen corn kernels
+* 2x400g can diced tomato
+* 2cup chicken stock
+
+## Method
+
+1. Cut onion, capy, rind n squeeze lemon
+
+2. Preheat oven to 200deg. Grease baking dishes. Combine portuguese spice, parley, sugar, lemon and rind in a large bowl. Add chicken and coat well in mixture.
+
+3. In a large woke/frying pan, medium heat oil. Cook chicken in batches till golden borwn (~5min)
+
+4. Add oil, onion, garlic and remaining spice mix to frying pan for ~6min till soft
+
+5. Add capy, corn, rice, tomatoes and stock. Bring to boil. Pour into baking dish
+
+6. Add chicken on top and press into rice mix a little. Cover with foil. Bake for 25min
+
+7. Remove foil, bake for 30min
+
+## Notes
+
+I think a dolop of yoghourt/sour cream would go well with this
+
+Original recipie: https://www.sunrice.com.au/rice-recipes/portuguese-chicken-bake/
+
+![](./img/portuguese-chicken-bake-1.jpg)8:["$","$L9",null,{"markdown":"$a"}]

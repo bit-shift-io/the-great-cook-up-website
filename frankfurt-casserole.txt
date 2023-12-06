@@ -1,34 +1,10 @@
 1:HL["/the-great-cook-up-website/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","style",{"crossOrigin":""}]
-0:["pmtmISA0gxiZmWfDfJhYg",[[["",{"children":[["recipe","frankfurt-casserole","d"],{"children":["__PAGE__?{\"recipe\":\"frankfurt-casserole\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","style",{"crossOrigin":""}]
+0:["w3l_FnVqzMTT2ZmCRzzNp",[[["",{"children":[["recipe","frankfurt-casserole","d"],{"children":["__PAGE__?{\"recipe\":\"frankfurt-casserole\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6083,[],""]
 6:I[5732,[],""]
 3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1d6b10","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","frankfurt-casserole","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"frankfurt-casserole\"}","styles":null}],"childPropSegment":["recipe","frankfurt-casserole","d"],"styles":null}]}]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/the-great-cook-up-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
-9:I[4998,["998","static/chunks/998-dba07d2c414391fa.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
-a:T437,<h1>Frankfurt Casserole</h1>
-<p>Serves: 6</p>
-<p>Time: 15 min prep + 20 min cook</p>
-<h2>Ingredients</h2>
-<ul>
-<li>375g packet of Pommes Noisettes</li>
-<li>30g marg/butter</li>
-<li>2 Tbl plain flour</li>
-<li>425g tomato juice (We used diced tomato, alternate sauces might also be good)</li>
-<li>500g chunk frozen veg (We didn&#39;t defrest these but it might be better)</li>
-<li>1 sachet beef cup-a-soup (2 sachets might be better?)</li>
-<li>1/2 cup water (we ended up with 1 cup due to the frozen veg)</li>
-<li>500g frankfurts, sliced</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li>Slice frankfurts. Preheat oven to 230 degrees. Defrost veg? Prepare noisettes on baking tray with baking paper (Maybe sprinkle chippy/chicken salt over)</li>
-<li>Melt butter, add flour.</li>
-<li>Add tomato juice, vegetables, soup mix, water, frankfurts. Bring to boil, then simmer for 20 min.</li>
-<li>Pop in the Noisettes as these take ~15 mins as per packet instructions.</li>
-<li>Mix noisettes in to sauce veg mix.</li>
-</ol>
-<h2>Notes</h2>
-<p>Original: Womans weekly menu planner No.? Series ?. p14</p>
-8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:I[997,["543","static/chunks/543-7dd51dc56d52a10b.js","303","static/chunks/303-8ddb7eccb07f59c1.js","254","static/chunks/app/%5Brecipe%5D/page-6855c5a1ab9da794.js"],"RecipeClient"]
+8:["$","$L9",null,{"markdown":"# Frankfurt Casserole\n\nServes: 6\n\nTime: 15 min prep + 20 min cook\n\n## Ingredients\n\n* 375g packet of Pommes Noisettes\n* 30g marg/butter\n* 2 Tbl plain flour\n* 425g tomato juice (We used diced tomato, alternate sauces might also be good)\n* 500g chunk frozen veg (We didn't defrest these but it might be better)\n* 1 sachet beef cup-a-soup (2 sachets might be better?)\n* 1/2 cup water (we ended up with 1 cup due to the frozen veg)\n* 500g frankfurts, sliced\n\n## Method\n\n1. Slice frankfurts. Preheat oven to 230 degrees. Defrost veg? Prepare noisettes on baking tray with baking paper (Maybe sprinkle chippy/chicken salt over)\n2. Melt butter, add flour.\n3. Add tomato juice, vegetables, soup mix, water, frankfurts. Bring to boil, then simmer for 20 min.\n4. Pop in the Noisettes as these take ~15 mins as per packet instructions.\n5. Mix noisettes in to sauce veg mix.\n\n## Notes\n\nOriginal: Womans weekly menu planner No.? Series ?. p14\n"}]

@@ -1,53 +1,10 @@
 1:HL["/the-great-cook-up-website/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","style",{"crossOrigin":""}]
-0:["pmtmISA0gxiZmWfDfJhYg",[[["",{"children":[["recipe","beef-kofta-curry","d"],{"children":["__PAGE__?{\"recipe\":\"beef-kofta-curry\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","style",{"crossOrigin":""}]
+0:["w3l_FnVqzMTT2ZmCRzzNp",[[["",{"children":[["recipe","beef-kofta-curry","d"],{"children":["__PAGE__?{\"recipe\":\"beef-kofta-curry\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6083,[],""]
 6:I[5732,[],""]
 3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1d6b10","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","beef-kofta-curry","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"beef-kofta-curry\"}","styles":null}],"childPropSegment":["recipe","beef-kofta-curry","d"],"styles":null}]}]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/the-great-cook-up-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
-9:I[4998,["998","static/chunks/998-dba07d2c414391fa.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
-a:T406,<h1>Beef Kofta Curry</h1>
-<p>Serves: 6</p>
-<p>Time to make: 30min</p>
-<h2>Ingredients</h2>
-<ul>
-<li><p>250g lentils</p>
-</li>
-<li><p>1 heaped tsp garam masala</p>
-</li>
-<li><p>400g beef mince</p>
-</li>
-<li><p>3 tomatoes</p>
-</li>
-<li><p>1tsp ginger</p>
-</li>
-<li><p>2 spring onions</p>
-</li>
-<li><p>2 chilli&#39;s (squirt of siracha would be good to try also)</p>
-</li>
-<li><p>1tsp tumeric</p>
-</li>
-<li><p>1tsp honey</p>
-</li>
-<li><p>2 heaped tsp Rogan josh paste (needs more, try 2 Tbl)</p>
-</li>
-<li><p>200g light coconut milk</p>
-</li>
-<li><p>serve with dolop of natural/greek yoghurt</p>
-</li>
-<li><p>serve with rice</p>
-</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li>Dice tomatoes &amp; spring onions &amp; chilli, add ginger, honey, tumeric, curry paste and cocounut milk into blender then blend.</li>
-<li>Mix lentils, garam masala, mince, pepper and salt. Brown in wok.</li>
-<li>Add paste from #1 into wok.</li>
-<li>Bring to boil then simmer.</li>
-</ol>
-<h2>Notes</h2>
-<ul>
-<li>Original: Jamie&#39;s 15 minute meals, p66</li>
-</ul>
-8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:I[997,["543","static/chunks/543-7dd51dc56d52a10b.js","303","static/chunks/303-8ddb7eccb07f59c1.js","254","static/chunks/app/%5Brecipe%5D/page-6855c5a1ab9da794.js"],"RecipeClient"]
+8:["$","$L9",null,{"markdown":"# Beef Kofta Curry\n\nServes: 6\n\nTime to make: 30min\n\n## Ingredients\n\n* 250g lentils\n* 1 heaped tsp garam masala\n* 400g beef mince\n* 3 tomatoes\n* 1tsp ginger\n* 2 spring onions\n* 2 chilli's (squirt of siracha would be good to try also)\n* 1tsp tumeric\n* 1tsp honey\n* 2 heaped tsp Rogan josh paste (needs more, try 2 Tbl)\n* 200g light coconut milk\n\n* serve with dolop of natural/greek yoghurt\n* serve with rice\n\n## Method\n\n1. Dice tomatoes & spring onions & chilli, add ginger, honey, tumeric, curry paste and cocounut milk into blender then blend.\n2. Mix lentils, garam masala, mince, pepper and salt. Brown in wok.\n3. Add paste from #1 into wok.\n4. Bring to boil then simmer.\n\n## Notes\n\n* Original: Jamie's 15 minute meals, p66\n"}]

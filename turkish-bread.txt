@@ -1,48 +1,10 @@
 1:HL["/the-great-cook-up-website/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","style",{"crossOrigin":""}]
-0:["pmtmISA0gxiZmWfDfJhYg",[[["",{"children":[["recipe","turkish-bread","d"],{"children":["__PAGE__?{\"recipe\":\"turkish-bread\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","style",{"crossOrigin":""}]
+0:["w3l_FnVqzMTT2ZmCRzzNp",[[["",{"children":[["recipe","turkish-bread","d"],{"children":["__PAGE__?{\"recipe\":\"turkish-bread\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6083,[],""]
 6:I[5732,[],""]
 3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1d6b10","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","turkish-bread","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"turkish-bread\"}","styles":null}],"childPropSegment":["recipe","turkish-bread","d"],"styles":null}]}]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/the-great-cook-up-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
-9:I[4998,["998","static/chunks/998-dba07d2c414391fa.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
-a:T414,<h1>Turkish Bread or Pan Pizza</h1>
-<p>1 pizza size base
-no-knead</p>
-<h2>Ingredients</h2>
-<ul>
-<li>2 cups plain flour</li>
-<li>2 1/4tsp yeast</li>
-<li>250ml water (add more if needed)</li>
-<li>2tsp sugar</li>
-<li>1stp salt</li>
-<li>olive/seasame oil/melted butter glaze</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li>1st proof 1hr or double size</li>
-<li>fit to tray with flour + oil</li>
-<li>2nd proof 45m</li>
-<li>250c 3-4m till slightly changing color</li>
-<li>250c ~16m till golden, rotate half way</li>
-</ol>
-<h2>Quick Version</h2>
-<ul>
-<li>4 cups/500g flour</li>
-<li>2Tb Yeast</li>
-<li>150ml Warm water</li>
-<li>150ml Milk (room temperature)</li>
-<li>Salt to taste</li>
-<li>3Tb Olive oil</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li>Knead about 10m until smooth</li>
-<li>Let rest for 1 hour</li>
-<li>Cut into 6 balls</li>
-<li>Roll out and cook for 2-3 mins on each side in frypan</li>
-</ol>
-<h2>Notes</h2>
-<p><a href="https://www.youtube.com/watch?v=v8L7Ysr_5ao&list=WL&index=56">https://www.youtube.com/watch?v=v8L7Ysr_5ao&amp;list=WL&amp;index=56</a></p>
-8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:I[997,["543","static/chunks/543-7dd51dc56d52a10b.js","303","static/chunks/303-8ddb7eccb07f59c1.js","254","static/chunks/app/%5Brecipe%5D/page-6855c5a1ab9da794.js"],"RecipeClient"]
+8:["$","$L9",null,{"markdown":"# Turkish Bread or Pan Pizza\n\n1 pizza size base\nno-knead\n\n## Ingredients\n\n* 2 cups plain flour\n* 2 1/4tsp yeast\n* 250ml water (add more if needed)\n* 2tsp sugar\n* 1stp salt\n* olive/seasame oil/melted butter glaze\n\n## Method\n\n1. 1st proof 1hr or double size\n2. fit to tray with flour + oil\n3. 2nd proof 45m\n4. 250c 3-4m till slightly changing color\n5. 250c ~16m till golden, rotate half way\n\n## Quick Version\n* 4 cups/500g flour\n* 2Tb Yeast\n* 150ml Warm water\n* 150ml Milk (room temperature)\n* Salt to taste\n* 3Tb Olive oil\n\n## Method\n1. Knead about 10m until smooth\n2. Let rest for 1 hour\n3. Cut into 6 balls\n4. Roll out and cook for 2-3 mins on each side in frypan\n   \n## Notes\nhttps://www.youtube.com/watch?v=v8L7Ysr_5ao&list=WL&index=56\n"}]

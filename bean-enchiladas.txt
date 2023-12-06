@@ -1,44 +1,10 @@
 1:HL["/the-great-cook-up-website/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","style",{"crossOrigin":""}]
-0:["pmtmISA0gxiZmWfDfJhYg",[[["",{"children":[["recipe","bean-enchiladas","d"],{"children":["__PAGE__?{\"recipe\":\"bean-enchiladas\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","style",{"crossOrigin":""}]
+0:["w3l_FnVqzMTT2ZmCRzzNp",[[["",{"children":[["recipe","bean-enchiladas","d"],{"children":["__PAGE__?{\"recipe\":\"bean-enchiladas\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6083,[],""]
 6:I[5732,[],""]
 3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1d6b10","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","bean-enchiladas","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"bean-enchiladas\"}","styles":null}],"childPropSegment":["recipe","bean-enchiladas","d"],"styles":null}]}]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/the-great-cook-up-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
-9:I[4998,["998","static/chunks/998-dba07d2c414391fa.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
-a:T519,<h1>Bean Enchiladas</h1>
-<p>Serves: 15</p>
-<p>Time: 1.5h prep + cook</p>
-<h2>Ingredients</h2>
-<ul>
-<li>2x brown onion</li>
-<li>2x red capsicum</li>
-<li>2x green capsicum</li>
-<li>2x 420g can corn kernels</li>
-<li>2x 420g can black beans</li>
-<li>4tsp ground cumin</li>
-<li>chillipowder/siracha</li>
-<li>2x 400g can chopped tomato</li>
-<li>20 tortillas</li>
-<li>3x 300g salsa jar (medium or hot)</li>
-<li>500g (4cups) grated cheese (reduced fat)</li>
-<li>2x avacado (optional)</li>
-<li>400ml light sour cream</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li>Dice vegetables</li>
-<li>Brown onion and capy</li>
-<li>Add corn, beans, cumin, chilli, tomatoes and simmer for ~5min or till thickens. Turn off when done</li>
-<li>Preheat oven to 200C and grease some oven proof dishes (we used 3 dishes)</li>
-<li>Wrap the mixture from above into tortillas and place in baking dishes, spoon left overs over the top.</li>
-<li>Pour salsa over the top. Add the cheese over the top of that</li>
-<li>Bake for ~25min or till heated through ahd cheese browned</li>
-</ol>
-<p>Serve with some sour cream and avo</p>
-<h2>Notes</h2>
-<ul>
-<li>Origional recipe: <a href="https://www.taste.com.au/recipes/vegetable-black-eye-bean-enchiladas/AiUK0meH">https://www.taste.com.au/recipes/vegetable-black-eye-bean-enchiladas/AiUK0meH</a></li>
-</ul>
-8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:I[997,["543","static/chunks/543-7dd51dc56d52a10b.js","303","static/chunks/303-8ddb7eccb07f59c1.js","254","static/chunks/app/%5Brecipe%5D/page-6855c5a1ab9da794.js"],"RecipeClient"]
+8:["$","$L9",null,{"markdown":"# Bean Enchiladas\n\nServes: 15\n\nTime: 1.5h prep + cook\n\n## Ingredients\n\n* 2x brown onion\n* 2x red capsicum\n* 2x green capsicum\n* 2x 420g can corn kernels\n* 2x 420g can black beans\n* 4tsp ground cumin\n* chillipowder/siracha\n* 2x 400g can chopped tomato\n* 20 tortillas\n* 3x 300g salsa jar (medium or hot)\n* 500g (4cups) grated cheese (reduced fat)\n* 2x avacado (optional)\n* 400ml light sour cream\n\n## Method\n\n1. Dice vegetables\n2. Brown onion and capy\n3. Add corn, beans, cumin, chilli, tomatoes and simmer for ~5min or till thickens. Turn off when done\n4. Preheat oven to 200C and grease some oven proof dishes (we used 3 dishes)\n5. Wrap the mixture from above into tortillas and place in baking dishes, spoon left overs over the top.\n6. Pour salsa over the top. Add the cheese over the top of that\n7. Bake for ~25min or till heated through ahd cheese browned\n\nServe with some sour cream and avo\n\n## Notes\n\n* Origional recipe: https://www.taste.com.au/recipes/vegetable-black-eye-bean-enchiladas/AiUK0meH\n"}]

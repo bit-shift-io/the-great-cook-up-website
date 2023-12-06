@@ -1,43 +1,45 @@
 1:HL["/the-great-cook-up-website/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","style",{"crossOrigin":""}]
-0:["pmtmISA0gxiZmWfDfJhYg",[[["",{"children":[["recipe","creamy-chicken-soup","d"],{"children":["__PAGE__?{\"recipe\":\"creamy-chicken-soup\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","style",{"crossOrigin":""}]
+0:["w3l_FnVqzMTT2ZmCRzzNp",[[["",{"children":[["recipe","creamy-chicken-soup","d"],{"children":["__PAGE__?{\"recipe\":\"creamy-chicken-soup\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6083,[],""]
 6:I[5732,[],""]
 3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1d6b10","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","creamy-chicken-soup","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"creamy-chicken-soup\"}","styles":null}],"childPropSegment":["recipe","creamy-chicken-soup","d"],"styles":null}]}]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/the-great-cook-up-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
-9:I[4998,["998","static/chunks/998-dba07d2c414391fa.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
-a:T67e,<h1>Chinese Corn Soup with Chicken</h1>
-<p>serves 6</p>
-<h2>Ingredients</h2>
-<ul>
-<li>2 Tbs butter</li>
-<li>1 onion diced</li>
-<li>2-4 celery sticks sliced</li>
-<li>2-4 carrots sliced</li>
-<li>2 garlic cloves</li>
-<li>3 Tbs flour</li>
-<li>2-4 potatos, peeled and diced</li>
-<li>4 cups chicken broth</li>
-<li>6 bonless chicken thigh</li>
-<li>2 cup broccoli</li>
-<li>1 cup green peas</li>
-<li>1/4 cup cream</li>
-<li>salt and pepper</li>
-</ul>
-<h2>Extras</h2>
-<ul>
-<li>veggies you like</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li>In a large pot, melt the butter over medium-high heat. Add the onion, celery, and carrots. Cook, stirring occasionally, until the vegetables begin to soften, about 3 to 4 minutes. </li>
-<li>Add the garlic and cook until it becomes fragrant, about 30 seconds. </li>
-<li>Add the flour and cook, stirring constantly for about 1 minute. </li>
-<li>Add the potatoes, broth, chicken thighs, and thyme sprig. Mix well. Cover the soup and bring it to a boil. Reduce the heat to medium and simmer the soup until the chicken has reached an internal temperature of 165ºF, about 10 to 15 minutes.</li>
-<li>Once the chicken is cooked through, carefully remove it from the pot and roughly chop it before returning it to the soup. Remove and discard the thyme sprig from the pot. Add the broccoli and peas and cook until they are bright green and tender, about 2 to 3 minutes. </li>
-<li>Stir in the cream and season with salt and pepper to taste.</li>
-</ol>
-<h2>Notes</h2>
-<p><a href="https://www.healthymealplans.com/recipe-details/creamy-chicken-and-vegetable-soup">https://www.healthymealplans.com/recipe-details/creamy-chicken-and-vegetable-soup</a></p>
-8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:I[997,["543","static/chunks/543-7dd51dc56d52a10b.js","303","static/chunks/303-8ddb7eccb07f59c1.js","254","static/chunks/app/%5Brecipe%5D/page-6855c5a1ab9da794.js"],"RecipeClient"]
+a:T552,# Chinese Corn Soup with Chicken
+
+serves 6
+
+## Ingredients
+
+* 2 Tbs butter
+* 1 onion diced
+* 2-4 celery sticks sliced
+* 2-4 carrots sliced
+* 2 garlic cloves
+* 3 Tbs flour
+* 2-4 potatos, peeled and diced
+* 4 cups chicken broth
+* 6 bonless chicken thigh
+* 2 cup broccoli
+* 1 cup green peas
+* 1/4 cup cream
+* salt and pepper
+
+## Extras
+
+* veggies you like
+
+## Method
+
+1. In a large pot, melt the butter over medium-high heat. Add the onion, celery, and carrots. Cook, stirring occasionally, until the vegetables begin to soften, about 3 to 4 minutes. 
+2. Add the garlic and cook until it becomes fragrant, about 30 seconds. 
+3. Add the flour and cook, stirring constantly for about 1 minute. 
+4. Add the potatoes, broth, chicken thighs, and thyme sprig. Mix well. Cover the soup and bring it to a boil. Reduce the heat to medium and simmer the soup until the chicken has reached an internal temperature of 165ºF, about 10 to 15 minutes.
+5. Once the chicken is cooked through, carefully remove it from the pot and roughly chop it before returning it to the soup. Remove and discard the thyme sprig from the pot. Add the broccoli and peas and cook until they are bright green and tender, about 2 to 3 minutes. 
+6. Stir in the cream and season with salt and pepper to taste.
+
+## Notes
+
+https://www.healthymealplans.com/recipe-details/creamy-chicken-and-vegetable-soup8:["$","$L9",null,{"markdown":"$a"}]

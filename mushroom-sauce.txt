@@ -1,40 +1,46 @@
 1:HL["/the-great-cook-up-website/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","style",{"crossOrigin":""}]
-0:["pmtmISA0gxiZmWfDfJhYg",[[["",{"children":[["recipe","mushroom-sauce","d"],{"children":["__PAGE__?{\"recipe\":\"mushroom-sauce\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/eb0f4e8f70e08490.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","style",{"crossOrigin":""}]
+0:["w3l_FnVqzMTT2ZmCRzzNp",[[["",{"children":[["recipe","mushroom-sauce","d"],{"children":["__PAGE__?{\"recipe\":\"mushroom-sauce\"}",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/the-great-cook-up-website/_next/static/css/0f584f9b5fef6de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6083,[],""]
 6:I[5732,[],""]
 3:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1d6b10","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children",["recipe","mushroom-sauce","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L7","$L8",null],"childPropSegment":"__PAGE__?{\"recipe\":\"mushroom-sauce\"}","styles":null}],"childPropSegment":["recipe","mushroom-sauce","d"],"styles":null}]}]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Great Cook Up"}],["$","meta","3",{"name":"description","content":"Just a collection of recipes"}],["$","link","4",{"rel":"icon","href":"/the-great-cook-up-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
-9:I[4998,["998","static/chunks/998-dba07d2c414391fa.js","254","static/chunks/app/%5Brecipe%5D/page-528bf350bf579bc1.js"],""]
-a:T565,<h1>Mushroom Sauce</h1>
-<p>For use on pasta or chicken shnitz potatoes etc</p>
-<h2>Ingredients</h2>
-<ul>
-<li>1-2Tb olive oil</li>
-<li>2Tb butter</li>
-<li>3Tb flour or 1-3tsp cornflour</li>
-<li>300g mushrooms</li>
-<li>1-2Tb minced garlic</li>
-<li>salt &amp; pepper</li>
-</ul>
-<h2>Extras</h2>
-<ul>
-<li>cooking wine</li>
-<li>chicken/beef stock</li>
-<li>thyme</li>
-<li>cream</li>
-<li>cheese</li>
-</ul>
-<h2>Method</h2>
-<ol>
-<li>Heat oil and melt butter in a skillet over medium high heat. Add mushrooms and leisurely cook until golden brown - takes about 4 to 5 minutes. No need to stir constantly</li>
-<li>Just before they&#39;re done, add the garlic and a pinch of salt and pepper. Cook until garlic is golden ~1m</li>
-<li>Add white wine, stir, scraping the bottom of the skillet, for 1 minute or until mostly evaporated</li>
-<li>Add broth, milk/cream and parmesan. Stir, then lower heat to medium so the sauce is simmering - do not boil rapidly, cream may split. Stir occasionally and simmer for 2 - 3 minutes until it thickens. It shouldn&#39;t be super thick</li>
-<li>Stir through thyme, adjust salt and pepper to taste. Remove from stove</li>
-</ol>
-<h2>Notes</h2>
-<p>If you want to use cream, then just eliminate the flour and replace the milk with heavy cream. </p>
-<p><a href="https://www.recipetineats.com/mushroom-sauce/">https://www.recipetineats.com/mushroom-sauce/</a></p>
-8:["$","main",null,{"className":"flex-grow justify-center items-center","children":[["$","$L9",null,{"href":"/","children":"← Back"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:I[997,["543","static/chunks/543-7dd51dc56d52a10b.js","303","static/chunks/303-8ddb7eccb07f59c1.js","254","static/chunks/app/%5Brecipe%5D/page-6855c5a1ab9da794.js"],"RecipeClient"]
+a:T469,# Mushroom Sauce
+
+For use on pasta or chicken shnitz potatoes etc
+
+## Ingredients
+
+* 1-2Tb olive oil
+* 2Tb butter
+* 3Tb flour or 1-3tsp cornflour
+* 300g mushrooms
+* 1-2Tb minced garlic
+* salt & pepper
+
+
+## Extras
+
+* cooking wine
+* chicken/beef stock
+* thyme
+* cream
+* cheese
+
+
+## Method
+
+1. Heat oil and melt butter in a skillet over medium high heat. Add mushrooms and leisurely cook until golden brown - takes about 4 to 5 minutes. No need to stir constantly
+2. Just before they're done, add the garlic and a pinch of salt and pepper. Cook until garlic is golden ~1m
+3. Add white wine, stir, scraping the bottom of the skillet, for 1 minute or until mostly evaporated
+4. Add broth, milk/cream and parmesan. Stir, then lower heat to medium so the sauce is simmering - do not boil rapidly, cream may split. Stir occasionally and simmer for 2 - 3 minutes until it thickens. It shouldn't be super thick
+5. Stir through thyme, adjust salt and pepper to taste. Remove from stove
+
+
+## Notes
+
+If you want to use cream, then just eliminate the flour and replace the milk with heavy cream. 
+
+https://www.recipetineats.com/mushroom-sauce/8:["$","$L9",null,{"markdown":"$a"}]
