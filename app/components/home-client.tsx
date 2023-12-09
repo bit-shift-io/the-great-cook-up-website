@@ -4,6 +4,7 @@ import Link from 'next/link'
 import startCase from 'lodash/startCase'
 import { ChangeEvent, useState } from 'react'
 import { Input } from '@/components/ui/input'
+import { XCircle } from 'lucide-react'
 
 interface IFileInfo {
   path: string;
@@ -49,12 +50,14 @@ export function HomeClient(props : IHomeClient) {
             The Great Cook Up
           </h1>
 
-          <div className="pb-5 pt-5">
+          <div className="flex flex-row justify-between pt-5 pb-5 items-center space-x-2">
             <Input
               placeholder="Search"
               onChange={handleChange}
               value={filter}
             />
+
+            <XCircle onClick={() => setFilter('')} className="cursor-pointer"/>
           </div>
   
           {files.map(file => {
