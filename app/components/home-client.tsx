@@ -4,10 +4,14 @@ import Link from 'next/link'
 import startCase from 'lodash/startCase'
 import { ChangeEvent, useState } from 'react'
 import { Input } from '@/components/ui/input'
-import { ITree } from '@/services/github'
+
+interface IFileInfo {
+  path: string;
+  tags?: Array<string>;
+}
 
 interface IHomeClient {
-    files: Array<ITree>;
+    files: Array<IFileInfo>;
 }
 
 export function HomeClient(props : IHomeClient) {
@@ -17,9 +21,19 @@ export function HomeClient(props : IHomeClient) {
       if (!filter) {
         return true
       }
+
+      const filterLower = filter.toLowerCase()
+
       const path = file.path.replace('.md', '')
-      const title = path.replaceAll('-', ' ')
-      return title.includes(filter)
+      const title = path.replaceAll('-', ' ').toLowerCase()
+
+      if (title.includes(filterLower)) {
+        return true
+      }
+
+      const tags = file.tags
+      const found = tags?.find(t => t.toLowerCase().includes(filterLower)) ?? false
+      return found
     }) || []
   
     const handleChange = (evt : ChangeEvent<HTMLInputElement>) => {
@@ -44,11 +58,25 @@ export function HomeClient(props : IHomeClient) {
           </div>
   
           {files.map(file => {
+            const tags = file.tags
             const path = file.path.replace('.md', '')
             const title = startCase(path.replaceAll('-', ' '))
             return (
-              <div key={path}>
+              <div key={path} className="flex justify-between">
                 <Link href={`/${path}`}>{title}</Link>
+                <div>
+                  {tags?.map((tag, index) => {
+                    return (
+                      <span 
+                        key={index}
+                        className="rounded border pl-2 pr-2 cursor-pointer"
+                        onClick={() => setFilter(tag.toLowerCase())}
+                      >
+                        {tag}
+                      </span>
+                    )
+                  })}
+                </div>
               </div>
             )
           })}

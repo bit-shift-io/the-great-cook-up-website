@@ -3,23 +3,23 @@
 import Link from 'next/link'
 import { Printer, ChevronLeftCircle } from 'lucide-react'
 import { LabelCheckbox } from '@/components/ui/checkbox'
-import { TokensList } from 'marked'
+import { TokensList, Tokens, Token } from 'marked'
 
 
-function CheckboxList({ items }) {
+function CheckboxList({ items } : Tokens.List) {
   return (
     <div className="flex flex-col">
       {items.map((token, idx) => {
         const { text } = token
         return (
-          <LabelCheckbox label={text} />
+          <LabelCheckbox label={text} key={idx}/>
         )
       })}
     </div>
   )
 }
 
-function List({ items, ordered }) {
+function List({ items, ordered } : Tokens.List) {
   if (ordered) {
     return (
       <ol className="list-decimal pl-5">
@@ -78,6 +78,7 @@ export function RecipeClient(props : IRecipeClient) {
         </div>
 
         {tokens.map((token, idx) => {
+          // @ts-ignore
           const { type, text } = token
 
           if (type == 'heading') {
@@ -95,14 +96,14 @@ export function RecipeClient(props : IRecipeClient) {
 
             if (depth == 1) {
               return (
-                <h1 className="pb-2 text-xl font-bold">
+                <h1 className="pb-2 text-xl font-bold" key={idx}>
                   {text}
                 </h1>
               )
             }
 
             return (
-              <h2 className="pb-2 pt-5 text-lg font-semibold">
+              <h2 className="pb-2 pt-5 text-lg font-semibold" key={idx}>
                 {text}
               </h2>
             )
@@ -110,7 +111,7 @@ export function RecipeClient(props : IRecipeClient) {
 
           if (type == 'paragraph') {
             return (
-              <p>
+              <p key={idx}>
                 {text}
               </p>
             )
@@ -119,16 +120,18 @@ export function RecipeClient(props : IRecipeClient) {
           if (type == 'list') {
             if (renderState == RENDER_STATE.INGREDIENTS) {
               return (
-                <CheckboxList {...token} />
+                // @ts-ignore
+                <CheckboxList {...token} key={idx}/>
               )
             }
             return (
-              <List {...token} />
+              // @ts-ignore
+              <List {...token} key={idx}/>
             )
           }
 
           return (
-            <div>
+            <div key={idx}>
               {text}
             </div>
           )

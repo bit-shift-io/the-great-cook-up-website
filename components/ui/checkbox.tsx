@@ -27,8 +27,7 @@ const Checkbox = React.forwardRef<
 ))
 Checkbox.displayName = CheckboxPrimitive.Root.displayName
 
-
-export function LabelCheckbox({ label }) {
+export function LabelCheckbox({ label } : { label: string}) {
   const id = useId()
   return (
     <div className="flex items-center space-x-2">
