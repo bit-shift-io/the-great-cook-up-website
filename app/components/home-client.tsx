@@ -28,25 +28,32 @@ export function HomeClient(props : IHomeClient) {
 
     console.log('filter: ', filter)
     return (
-      <>
-          <div>
-            The Great Cook Up
-          </div>
+      <main className="flex flex-grow justify-center items-center p-5">
+        <div className="flex-grow max-w-5xl border rounded p-5">
 
-          <Input
-            placeholder="Search"
-            onChange={handleChange}
-            value={filter}
-          />
+          <h1 className="pb-2 text-xl font-bold">
+            The Great Cook Up
+          </h1>
+
+          <div className="pb-5 pt-5">
+            <Input
+              placeholder="Search"
+              onChange={handleChange}
+              value={filter}
+            />
+          </div>
   
           {files.map(file => {
             const path = file.path.replace('.md', '')
             const title = startCase(path.replaceAll('-', ' '))
             return (
-              <Link key={path} href={`/${path}`}>{title}</Link>
+              <div key={path}>
+                <Link href={`/${path}`}>{title}</Link>
+              </div>
             )
           })}
-      </>
+        </div>
+      </main>
     )
   }
   

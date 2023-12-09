@@ -1,47 +1,9 @@
 "use client"
 
 import Link from 'next/link'
-//import Markdown, { ReactRenderer } from 'marked-react'
-import { ReactNode } from 'react';
 import { Printer, ChevronLeftCircle } from 'lucide-react'
 import { LabelCheckbox } from '@/components/ui/checkbox'
-
-/*
-// https://marked.js.org/using_pro#renderer
-const renderer : Partial<ReactRenderer> = {
-    heading(children: ReactNode, level) {
-        return (
-            <h1 className="text-red-300">
-              {children}
-            </h1>
-        )
-    },
-
-    list(children: ReactNode, ordered: boolean) {
-        return (
-            <li className="text-blue-300">
-              {children}
-            </li>
-        )
-    },
-
-    paragraph(children: ReactNode) {
-        return (
-            <p className="text-green-300">
-              {children}
-            </p>
-        )
-    },
-
-    link(href: string, text: ReactNode) {
-        return (
-            <a className="text-yellow-300" href={href}>
-              {text}
-            </a>
-        )
-    }
-};
-*/
+import { TokensList } from 'marked'
 
 
 function CheckboxList({ items }) {
@@ -94,7 +56,11 @@ const RENDER_STATE = {
   NOTES: 'notes'
 }
 
-export function RecipeClient(props : any) {
+interface IRecipeClient {
+  tokens: TokensList
+}
+
+export function RecipeClient(props : IRecipeClient) {
   const { tokens } = props
 
   let renderState = RENDER_STATE.HEAD
@@ -108,7 +74,7 @@ export function RecipeClient(props : any) {
             <span className="pl-2">Back</span>
           </Link>
 
-          <Printer />
+          <Printer onClick={() => window.print()} className="cursor-pointer"/>
         </div>
 
         {tokens.map((token, idx) => {
