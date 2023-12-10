@@ -67,7 +67,7 @@ export function HomeClient(props : IHomeClient) {
             return (
               <div key={path} className="flex justify-between">
                 <Link href={`/${path}`}>{title}</Link>
-                <div>
+                <div className="space-x-2">
                   {tags?.map((tag, index) => {
                     return (
                       <span 
