@@ -68,7 +68,7 @@ export function RecipeClient(props : IRecipeClient) {
   return (
     <main className="flex flex-grow justify-center items-center p-5">
       <div className="flex-grow max-w-5xl border rounded p-5">
-        <div className="flex flex-row justify-between pb-5">
+        <div className="flex flex-row justify-between pb-5 print:hidden">
           <Link href="/" className="flex flex-row items-center">
             <ChevronLeftCircle/>
             <span className="pl-2">Back</span>
@@ -96,14 +96,14 @@ export function RecipeClient(props : IRecipeClient) {
 
             if (depth == 1) {
               return (
-                <h1 className="pb-2 text-xl font-bold" key={idx}>
+                <h1 className="pb-1 text-xl font-bold" key={idx}>
                   {text}
                 </h1>
               )
             }
 
             return (
-              <h2 className="pb-2 pt-5 text-lg font-semibold" key={idx}>
+              <h2 className="pb-1 pt-3 text-lg font-semibold" key={idx}>
                 {text}
               </h2>
             )
