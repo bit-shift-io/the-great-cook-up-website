@@ -1,4 +1,4 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[254],{1329:function(e,t,n){Promise.resolve().then(n.bind(n,2066))},2066:function(e,t,n){"use strict";n.r(t),n.d(t,{RecipeClient:function(){return F}});var r=n(7009),i=n(9512),l=n(9851),s=n.n(l),o=n(1627);/**
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[254],{1329:function(e,t,n){Promise.resolve().then(n.bind(n,9038))},9038:function(e,t,n){"use strict";n.r(t),n.d(t,{RecipeClient:function(){return F}});var r=n(7009),i=n(9512),l=n(9851),s=n.n(l),o=n(1627);/**
  * @license lucide-react v0.294.0 - ISC
  *
  * This source code is licensed under the ISC license.
