@@ -1,25 +1,23 @@
-"use client"
-
-import Link from 'next/link'
+import { Link } from 'react-router-dom'
 import { Printer, ChevronLeftCircle } from 'lucide-react'
 import { LabelCheckbox } from '@/components/ui/checkbox'
 import { TokensList, Tokens, Token } from 'marked'
 
 
-function CheckboxList({ items } : Tokens.List) {
+function CheckboxList({ items }: Tokens.List) {
   return (
     <div className="flex flex-col">
       {items.map((token, idx) => {
         const { text } = token
         return (
-          <LabelCheckbox label={text} key={idx}/>
+          <LabelCheckbox label={text} key={idx} />
         )
       })}
     </div>
   )
 }
 
-function List({ items, ordered } : Tokens.List) {
+function List({ items, ordered }: Tokens.List) {
   if (ordered) {
     return (
       <ol className="list-decimal pl-5">
@@ -60,7 +58,7 @@ interface IRecipeClient {
   tokens: TokensList
 }
 
-export function RecipeClient(props : IRecipeClient) {
+export function RecipeClient(props: IRecipeClient) {
   const { tokens } = props
 
   let renderState = RENDER_STATE.HEAD
@@ -69,12 +67,12 @@ export function RecipeClient(props : IRecipeClient) {
     <main className="flex flex-grow justify-center items-center p-5">
       <div className="flex-grow max-w-5xl border rounded p-5">
         <div className="flex flex-row justify-between pb-5 print:hidden">
-          <Link href="/" className="flex flex-row items-center">
-            <ChevronLeftCircle/>
+          <Link to="/" className="flex flex-row items-center">
+            <ChevronLeftCircle />
             <span className="pl-2">Back</span>
           </Link>
 
-          <Printer onClick={() => window.print()} className="cursor-pointer"/>
+          <Printer onClick={() => window.print()} className="cursor-pointer" />
         </div>
 
         {tokens.map((token, idx) => {
@@ -121,12 +119,12 @@ export function RecipeClient(props : IRecipeClient) {
             if (renderState == RENDER_STATE.INGREDIENTS) {
               return (
                 // @ts-ignore
-                <CheckboxList {...token} key={idx}/>
+                <CheckboxList {...token} key={idx} />
               )
             }
             return (
               // @ts-ignore
-              <List {...token} key={idx}/>
+              <List {...token} key={idx} />
             )
           }
 
