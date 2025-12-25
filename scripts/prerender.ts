@@ -19,34 +19,43 @@ const run = async () => {
     console.log('Fetching file list...')
     const rawFiles = await getFileList()
 
-    console.log('Processing files for Home page...')
-    const files = await Promise.all(rawFiles.map(async (file) => {
-        const url = `https://raw.githubusercontent.com/bit-shift-io/the-great-cook-up/main/${file.path}`
-        const text = await fetch(url).then(r => r.text())
+    const contentDir = toAbsolute('.content')
+    const hasLocalContent = fs.existsSync(contentDir)
+
+    console.log('Processing files...')
+    const routes: Array<{ path: string, data: any }> = []
+    const homeFiles = []
+
+    for (const file of rawFiles) {
+        let text: string
+        if (hasLocalContent) {
+            text = fs.readFileSync(path.join(contentDir, file.path), 'utf-8')
+        } else {
+            const url = `https://raw.githubusercontent.com/bit-shift-io/the-great-cook-up/main/${file.path}`
+            text = await fetch(url).then(r => r.text())
+        }
+
         const tokens = marked.lexer(text)
+
+        // Extract tags for home page list
         // @ts-ignore
         const tagsToken = tokens.find(t => t?.text?.toLowerCase().startsWith('tags:'))
-        if (!tagsToken) return { path: file.path }
-        // @ts-ignore
-        let tags = tagsToken?.text?.replace('Tags:', '').replace('tags:', '').split(',').map(tag => tag.trim())
-        return { path: file.path, tags }
-    }))
+        let tags = []
+        if (tagsToken) {
+            // @ts-ignore
+            tags = tagsToken?.text?.replace('Tags:', '').replace('tags:', '').split(',').map(tag => tag.trim())
+        }
+        homeFiles.push({ path: file.path, tags })
 
-    const routes: Array<{ path: string, data: any }> = [
-        { path: '/', data: { files } }
-    ]
-
-    console.log('Fetching detail data for each recipe...')
-    for (const file of files) {
+        // Prepare detail route
         const pathSlug = file.path.replace('.md', '')
-        const url = `https://raw.githubusercontent.com/bit-shift-io/the-great-cook-up/main/${file.path}`
-        const text = await fetch(url).then(r => r.text())
-        const tokens = marked.lexer(text)
         routes.push({
             path: `/${pathSlug}`,
             data: { tokens, recipe: pathSlug }
         })
     }
+
+    routes.unshift({ path: '/', data: { files: homeFiles } })
 
     console.log(`Starting pre-render of ${routes.length} routes...`)
     for (const route of routes) {
